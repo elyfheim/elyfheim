@@ -1,0 +1,4 @@
+- I'm highly interested in computer architecture, compilers and systems programming.
+- I mainly use [Zig](https://ziglang.org/) and C for my projects.
+- I'm currently working on [Elaine](https://github.com/elyfheim/elaine), a toy JavaScript framework roughly inspired by React.
+- Visit my personal website here! [elyfheim.me](https://elyfheim.me/)
